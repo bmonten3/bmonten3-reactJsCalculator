@@ -1,5 +1,5 @@
 
-![Brian's React Calc](https://postimg.cc/B8j8GtWT)
+[![reactjs-Calc.png](https://i.postimg.cc/6Q0CnGYm/reactjs-Calc.png)](https://postimg.cc/B8j8GtWT)
 
 ** TO RUN THIS PROJECT LOCALLY ** 
 To run this project, install it locally using npm:
