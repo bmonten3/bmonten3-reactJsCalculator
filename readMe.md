@@ -1,5 +1,5 @@
 
-![Brian's React Calc](/relative/path/to/reactjscalc.png?raw=true "Optional Title")
+![Brian's React Calc](https://postimg.cc/B8j8GtWT)
 
 ** TO RUN THIS PROJECT LOCALLY ** 
 To run this project, install it locally using npm:
